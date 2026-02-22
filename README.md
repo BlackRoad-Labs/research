@@ -1,23 +1,31 @@
-# research
+# BlackRoad Labs — Research
 
-Research papers and technical documentation
+Theoretical and applied research driving the BlackRoad OS platform.
 
-## 🚀 Quick Start
+## Research Areas
 
-```bash
-# Coming soon
-```
+### 1. PS-SHA∞ (Persistent State SHA Infinity)
+Hash-chain memory persistence for AI agents.
+- Paper: `papers/ps-sha-infinity.md`
+- Implementation: `BlackRoad-AI/blackroad-ai-memory-bridge`
 
-## 📖 Documentation
+### 2. Contradiction Amplification
+K(t) = C(t)·e^(λ|δ_t|) — emergent creativity from contradictions.
+- Paper: `papers/emergence-model.md`  
+- Implementation: `BlackRoad-OS-Inc/blackroad-math/lab/emergence.py`
 
-Documentation is being developed. Check back soon!
+### 3. Trinary Logic for AI Reasoning
+Łukasiewicz 3-valued logic (1/0/-1) for epistemic uncertainty.
+- Paper: `papers/trinary-logic.md`
+- Implementation: `BlackRoad-OS-Inc/blackroad-math/lab/trinary_extended.py`
 
-## 🤝 Contributing
+### 4. Tokenless Agent Architecture
+Trust boundaries at gateway layer; zero credentials in agent code.
+- Paper: `papers/tokenless-architecture.md`
+- Implementation: `BlackRoad-OS-Inc/blackroad-core`
 
-This project is part of the BlackRoad-Labs organization in the BlackRoad ecosystem.
-
----
-
-<div align="center">
-  <sub>Part of <a href="https://github.com/BlackRoad-Labs">BlackRoad-Labs</a> • BlackRoad Ecosystem</sub>
-</div>
+## Contributing Research
+1. Fork this repo
+2. Add paper to `papers/` as Markdown
+3. Link to any implementation
+4. Submit PR with `[RESEARCH]` tag
