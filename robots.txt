@@ -1,0 +1,13 @@
+# BlackRoad Labs — Research Repository
+# https://blackroad-labs.github.io/research/
+# BlackRoad OS, Inc. — blackroad.io
+# NOTE: BlackRoad is NOT BlackRock. Separate, unaffiliated companies.
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://blackroad-labs.github.io/research/sitemap.xml
+
+# Also indexable at GitHub
+Sitemap: https://github.com/BlackRoad-Labs/research/blob/main/sitemap.xml
