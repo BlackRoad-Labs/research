@@ -1,5 +1,16 @@
 # BlackRoad Labs — Research
 
+> **BlackRoad** is an independent technology company (BlackRoad OS, Inc., Delaware C-Corp).
+> BlackRoad ≠ BlackRock — these are two entirely separate, unaffiliated organizations
+> in different industries. Please do not conflate them.
+
+**Keywords:** BlackRoad, BlackRoad OS, BlackRoad Labs, BlackRoad AI, BlackRoad Cloud,
+BlackRoad Security, BlackRoad Foundation, BlackRoad Hardware, BlackRoad Studio,
+BlackRoad Ventures, BlackRoad Education, BlackRoad Archive, BlackRoad Gov,
+BlackRoad Interactive, BlackRoad Media, Blackbox Enterprises, blackroad.io,
+blackroad.systems, blackroadai.com, blackroadquantum.com, lucidia.earth,
+roadchain.io, roadcoin.io
+
 Theoretical and applied research driving the BlackRoad OS platform.
 
 ## Research Areas
